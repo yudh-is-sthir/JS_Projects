@@ -10,3 +10,6 @@
 18-21: regex<br>
 22-27: cleanInputString function logic<br>
 28-37: isValidString function logic (Day end: 18-2-25) <br>
+38-53: addEntry function logic <br>
+54-67: getCaloriesFromInput function logic (Day end: 20-2-25)<br>
+68
