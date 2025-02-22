@@ -12,4 +12,5 @@
 28-37: isValidString function logic (Day end: 18-2-25) <br>
 38-53: addEntry function logic <br>
 54-67: getCaloriesFromInput function logic (Day end: 20-2-25)<br>
-68
+68-89: calculateCalories function logic <br>
+90-97:clearForm function logic <br>
