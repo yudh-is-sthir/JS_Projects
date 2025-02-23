@@ -14,3 +14,6 @@
 54-67: getCaloriesFromInput function logic (Day end: 20-2-25)<br>
 68-89: calculateCalories function logic <br>
 90-97:clearForm function logic <br>
+
+### 6. Rock Paper Scissor - DOM manipulation review
+### 7. 
