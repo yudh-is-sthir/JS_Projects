@@ -16,4 +16,15 @@
 90-97:clearForm function logic <br>
 
 ### 6. Rock Paper Scissor - DOM manipulation review
-### 7. 
+### 7. Music Player App
+1 - 10: getting started
+11 - 16: arrow functions basics
+17 - 26: renderSongs function logic 
+27 - 34: sortSongs function logic
+35 - : playSong function logic
+
+
+
+
+### Day log
+26-02-2024 : Music player app (step 36)
