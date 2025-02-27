@@ -21,10 +21,14 @@
 11 - 16: arrow functions basics
 17 - 26: renderSongs function logic 
 27 - 34: sortSongs function logic
-35 - : playSong function logic
-
-
-
+35 - 45: playSong function logic
+46 - 50: pauseSong function logic
+51 - 67: playNextSong, highlightSong function logic
+68 - 75: setPlayButtonAccessibleText function logic
+76 - 80: shuffle function logic
+81 - 99: deleteSong and renderSongs Updated function logic and final touches
 
 ### Day log
 26-02-2024 : Music player app (step 36)
+27-02-2024 : Music player app - Finish
+28-02-2024 : 
